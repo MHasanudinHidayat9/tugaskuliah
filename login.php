@@ -70,7 +70,7 @@ class Login extends Controller {
 		redirect('login', 'refresh');
 	}
 }
-// END Login Class
+// END Login Class Yeuh
 
 /* End of file login.php */
 /* Location: ./system/application/controllers/login.php */
